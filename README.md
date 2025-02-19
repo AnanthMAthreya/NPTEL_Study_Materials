@@ -45,3 +45,7 @@ The chapters of this course are:
 [Link to the course](https://nptel.ac.in/courses/106106212)
 
 [Material](https://github.com/AnanthMAthreya/NPTEL_Study_Materials/tree/main/Python%20for%20Data%20Science)
+## 5.Design, Technology and Innovation
+[Link to the course](https://nptel.ac.in/courses/107101088)
+
+[Material](https://github.com/AnanthMAthreya/NPTEL_Study_Materials/tree/main/Design%2C%20technology%20and%20innovation)
